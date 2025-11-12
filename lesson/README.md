@@ -1,6 +1,6 @@
 # `useEffect`
 
-Hooks are functions that let you "hook into" React state and lifecycle features from functional components. Hooks don't work inside classes - they're a way to use React features without classes.
+Hooks are functions that let you "hook into" React state and lifecycle features from functional components. 
 
 We've learned about `useState`, which is a hook for adding state to functional components. There are a few more built-in hooks for accessing React's internals, and you can also create your own hooks. Today we'll be learning about `useEffect`.
 
