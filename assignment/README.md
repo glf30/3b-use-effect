@@ -9,7 +9,7 @@ Spend some time exploring the PokeAPI. Familiarize yourself with how to make req
 
 ##### Access the API:
 
-1. Visit the PokeAPI documentation: [https://pokeapi.co/docs/v2](https://pokeapi.co/docs/v2)
+1. Visit the PokeAPI documentation: [https://pokeapi.co/](https://pokeapi.co/)
 2. Use your browser or a tool like Postman to make a GET request to `https://pokeapi.co/api/v2/pokemon/{name or id}`.
 3. Replace `{name or id}` with a Pokémon's name (e.g., `bulbasaur`) or ID (e.g., `1`).
 
